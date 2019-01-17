@@ -6,3 +6,5 @@ Fingerprint identification is one of the most well known and common biometric id
 For controlling both these modules the microcontroller board, ARDUINO REV3 (clone).
 GUI: Microsoft Visual Basic .Net 2013./ python
 Database: MS Access.
+
+OPEN 'README_2.PDF' for detailed description of whole project.
